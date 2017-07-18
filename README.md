@@ -5,6 +5,9 @@ A vocabulary application for Android  (4.4 or higher)
 
 ### Screenshots: (Virtual Device - Emulated) 
 
-![image](https://user-images.githubusercontent.com/13225790/27918398-ad932c5c-6290-11e7-8bd9-8d6c62901171.png)
-![image](https://user-images.githubusercontent.com/13225790/27918399-ad943fb6-6290-11e7-8a46-128c7af8d2b6.png)
-![image](https://user-images.githubusercontent.com/13225790/27918400-ad997dbe-6290-11e7-9d25-02c402813afe.png)
+![image](https://user-images.githubusercontent.com/13225790/28330173-66ad2676-6c0e-11e7-9356-0e1dc9f264ef.png)
+![image](https://user-images.githubusercontent.com/13225790/28330174-66adface-6c0e-11e7-9ed5-1b122809e5b6.png)
+![image](https://user-images.githubusercontent.com/13225790/28330171-66abeba8-6c0e-11e7-84f6-03f9e68b32f8.png)
+![image](https://user-images.githubusercontent.com/13225790/28330172-66ac0a84-6c0e-11e7-922d-121227065046.png)
+![image](https://user-images.githubusercontent.com/13225790/28330175-66b7d922-6c0e-11e7-9d7a-8f6aac2bdfc0.png)
+

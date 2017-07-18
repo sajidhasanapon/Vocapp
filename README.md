@@ -3,7 +3,7 @@ A vocabulary application for Android  (4.4 or higher)
 #### Currently under development
 
 
-### Screenshots: (Virtual Device - Emulated) 
+### Screenshots:
 
 ![image](https://user-images.githubusercontent.com/13225790/28330173-66ad2676-6c0e-11e7-9356-0e1dc9f264ef.png)
 ![image](https://user-images.githubusercontent.com/13225790/28330174-66adface-6c0e-11e7-9ed5-1b122809e5b6.png)
